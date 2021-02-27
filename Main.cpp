@@ -1,4 +1,4 @@
-// Name: Travis Howard
+// 
 
 #include <iostream>
 #include "util.h"
