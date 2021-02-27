@@ -1,5 +1,5 @@
-#ifndef PROJECT2_HEAP_H // prevents double declarations
-#define PROJECT2_HEAP_H
+#ifndef HEAP_H // prevents double declarations
+#define HEAP_H
 
 #include <iostream>
 #include "graph.h"
