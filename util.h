@@ -1,5 +1,5 @@
-#ifndef PROJECT2_UTIL_H
-#define PROJECT2_UTIL_H
+#ifndef UTIL_H
+#define UTIL_H
 #include "heap.h"
 using namespace std;
 
