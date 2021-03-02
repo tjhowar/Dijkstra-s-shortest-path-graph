@@ -34,6 +34,7 @@ int main()
                 //Initialize graph
                if(graph == NULL) {
                     graph = new Graph;
+                    graph->A = NULL; //3/2
                 }
 
                 cout << "COMMAND: " << c << endl;
